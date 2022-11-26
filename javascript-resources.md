@@ -8,3 +8,9 @@
 1. https://github.com/bradtraversy/vanillawebprojects
 2. https://github.com/bradtraversy/50projects50days
 3. https://github.com/zero-to-mastery/javascript20-projects
+
+# Async JavaScript in Practice CheatSheet
+https://frontarm.com/courses/async-javascript/in-practice/cheatsheet/
+
+# Public APIs
+https://github.com/public-apis/public-apis
