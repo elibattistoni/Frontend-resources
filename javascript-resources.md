@@ -1,4 +1,6 @@
-# Javascript snippets (source: https://github.com/aneagoie/html-dom):
+# Javascript snippets 
+
+(source: https://github.com/aneagoie/html-dom):
 1. Snippets for managing HTML DOM with vanilla JS https://htmldom.dev/
 2. Javascript snippets in one line of code https://1loc.dev/
     
