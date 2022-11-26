@@ -1,3 +1,6 @@
+## Best JavaScript course ever (source code)
+https://github.com/jonasschmedtmann/complete-javascript-course
+
 ## Javascript snippets 
 
 (source: https://github.com/aneagoie/html-dom):
