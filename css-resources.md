@@ -1,5 +1,9 @@
 # CSS resources
 
+## HTML & CSS Cheatsheets
+- HTML Cheatsheet https://htmlcheatsheet.com/
+- CSS Cheatsheet https://htmlcheatsheet.com/css/
+
 ## General CSS resources
 - Jonas Schmedtmann great resource page https://codingheroes.io/resources/
 - CSS snippets https://csslayout.io/
@@ -8,6 +12,7 @@
 
 ## Box shadow
 - Box shadow creator https://www.cssmatic.com/box-shadow
+- Box shadow generator https://toolset.mrw.it/css/css3-box-shadow.html
 
 ## Flexbox
 - Flexbox basics https://academind.com/tutorials/flexbox-basics-container
@@ -29,3 +34,6 @@ https://alvarotrigo.com/blog/css-round-button/
 
 ## Many methods for SVG icons
 https://chenhuijing.com/blog/the-many-methods-for-using-svg-icons/
+
+## Text area snippets
+https://cssdeck.com/blog/8-awesome-css-textarea-snippets/
