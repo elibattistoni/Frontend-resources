@@ -1,4 +1,8 @@
-# CSS resources
+# HTML & CSS resources
+
+## Best HTML & CSS courses
+- https://github.com/jonasschmedtmann/advanced-css-course
+- https://github.com/jonasschmedtmann/html-css-course
 
 ## HTML & CSS Cheatsheets
 - HTML Cheatsheet https://htmlcheatsheet.com/
