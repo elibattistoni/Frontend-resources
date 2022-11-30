@@ -41,3 +41,6 @@ https://chenhuijing.com/blog/the-many-methods-for-using-svg-icons/
 
 ## Text area snippets
 https://cssdeck.com/blog/8-awesome-css-textarea-snippets/
+
+## Flex & other stuff constructors
+https://angrytools.com/css-flex/
