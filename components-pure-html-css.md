@@ -8,3 +8,6 @@
 - https://www.digitalocean.com/community/tutorials/css-scrollbars
 - https://css-tricks.com/almanac/properties/s/scrollbar/
 - https://css-tricks.com/the-current-state-of-styling-scrollbars-in-css/
+
+# Modals
+https://css-tricks.com/considerations-styling-modal/
